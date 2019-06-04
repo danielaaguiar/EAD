@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/skill_numero"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:text="@string/skill_number"
+        android:textColor="@color/Black"
+        android:textSize="18sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintWidth_percent=".20"
+        tools:layout_editor_absoluteY="20dp" />
+
+    <TextView
+        android:id="@+id/skill_nome"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/skill_name"
+        android:textColor="@color/Black"
+        android:textSize="18sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/skill_numero"
+        app:layout_constraintWidth_percent=".50"
+        tools:layout_editor_absoluteY="21dp" />
+
+
+</android.support.constraint.ConstraintLayout>

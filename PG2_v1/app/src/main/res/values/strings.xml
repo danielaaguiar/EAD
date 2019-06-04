@@ -1,0 +1,89 @@
+<resources>
+
+
+    <!--	A	-->
+    <string name="app_name">Controle de peso</string>
+    <!--	B	-->
+    <string name="bt_salvar">Salvar</string>
+    <string name="bt_cancelar">Cancelar</string>
+    <string name="bt_excluir">Excluir</string>
+    <!--	C	-->
+    <!--	D	-->
+    <string name="dialog_dados_corporeos">Dados Corpóreos</string>
+    <string name="dialog_dados_peso">Peso</string>
+    <string name="dialog_dados_musculo">Músculo</string>
+    <string name="dialog_dados_bf">Bf</string>
+    <string name="dialog_dados_vf">Vf</string>
+    <string name="dialog_dados_braco">Braço</string>
+    <string name="dialog_dados_cintura">Cintura</string>
+    <string name="dialog_dados_malhacao">Malhação</string>
+    <string name="dialog_dados_exercicio">Exercicio</string>
+    <string name="dialog_dados_tempo">Tempo</string>
+    <string name="dialog_dados_hora_pesagem">Hora</string>
+    <string name="dialog_dados_hora_malhacao_inicial">Hora inicio</string>
+    <string name="dialog_dados_hora_malhacao_final">Hora fim</string>
+
+    <string name="dialog_new_note">New Note Dialog</string>
+    <string name="dialog_view_note">View Note Dialog</string>
+    <string name="dialog_view_cadastrar">Cadastrar</string>
+    <string name="dialog_view_excluir">Excluir</string>
+
+    <!--	E	-->
+    <!--	F	-->
+    <!--	G	-->
+    <!--	H	-->
+    <!--	I	-->
+    <!--	J	-->
+    <!--	K	-->
+    <!--	L	-->
+    <!--	M	-->
+    <!--	N	-->
+    <!--	O	-->
+    <!--	P	-->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_sign_in">Entre</string>
+    <!--	Q	-->
+    <!--	R	-->
+    <!--	S	-->
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="sign_out">Sair</string>
+    <string name="dialog_dados_hora">Horário</string>
+    <!--	T	-->
+    <!--	U	-->
+    <!--	W	-->
+    <!--	X	-->
+    <!--	Y	-->
+    <!--	Z	-->
+
+
+
+    <!--	A	-->
+    <!--	B	-->
+    <!--	C	-->
+    <!--	D	-->
+    <!--	E	-->
+    <!--	F	-->
+    <!--	G	-->
+    <!--	H	-->
+    <!--	I	-->
+    <!--	J	-->
+    <!--	K	-->
+    <!--	L	-->
+    <!--	M	-->
+    <!--	N	-->
+    <!--	O	-->
+    <!--	P	-->
+    <!--	Q	-->
+    <!--	R	-->
+    <!--	S	-->
+    <!--	T	-->
+    <!--	U	-->
+    <!--	W	-->
+    <!--	X	-->
+    <!--	Y	-->
+    <!--	Z	-->
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741117330990",
+    "firebase_url": "https://projetograduacao-5002d.firebaseio.com",
+    "project_id": "projetograduacao-5002d",
+    "storage_bucket": "projetograduacao-5002d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741117330990:android:3dd76a0e3079759c",
+        "android_client_info": {
+          "package_name": "com.eda.ead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741117330990-kha85gmtcbk86gg183vg8jrj8gu70d5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1a0UrgD1GPiG0T5ssXV-wh8mViDCkuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741117330990-kha85gmtcbk86gg183vg8jrj8gu70d5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

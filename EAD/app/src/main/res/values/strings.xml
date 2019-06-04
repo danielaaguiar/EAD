@@ -1,0 +1,83 @@
+<resources>
+
+
+    <!--	A	-->
+    <string name="app_name">EAD</string>
+    <!--	B	-->
+    <string name="bt_salvar">Salvar</string>
+    <string name="bt_cancelar">Cancelar</string>
+    <string name="bt_excluir">Excluir</string>
+    <!--	C	-->
+    <!--	D	-->
+
+
+    <string name="dialog_new_note">New Note Dialog</string>
+    <string name="dialog_view_note">View Note Dialog</string>
+    <string name="dialog_view_cadastrar">Cadastrar</string>
+    <string name="dialog_view_excluir">Excluir</string>
+
+    <!--	E	-->
+    <!--	F	-->
+    <!--	G	-->
+    <!--	H	-->
+    <!--	I	-->
+    <!--	J	-->
+    <!--	K	-->
+    <!--	L	-->
+    <!--	M	-->
+    <!--	N	-->
+    <!--	O	-->
+    <!--	P	-->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_sign_in">Entre</string>
+    <!--	Q	-->
+    <!--	R	-->
+    <!--	S	-->
+    <string name="skill_name">Nome da habilidade</string>
+    <string name="skill_number">Nº</string>
+
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="sign_out">Sair</string>
+    <string name="dialog_dados_hora">Horário</string>
+    <string name="title_activity_lesson">LessonActivity</string>
+    <!--	T	-->
+    <!--	U	-->
+    <!--	W	-->
+    <!--	X	-->
+    <!--	Y	-->
+    <!--	Z	-->
+
+
+    <!--	A	-->
+    <!--	B	-->
+    <!--	C	-->
+    <!--	D	-->
+    <!--	E	-->
+    <!--	F	-->
+    <!--	G	-->
+    <!--	H	-->
+    <!--	I	-->
+    <!--	J	-->
+    <!--	K	-->
+    <!--	L	-->
+    <!--	M	-->
+    <!--	N	-->
+    <!--	O	-->
+    <!--	P	-->
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <!--	Q	-->
+    <!--	R	-->
+    <!--	S	-->
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <!--	T	-->
+    <!--	U	-->
+    <!--	W	-->
+    <!--	X	-->
+    <!--	Y	-->
+    <!--	Z	-->
+
+
+</resources>

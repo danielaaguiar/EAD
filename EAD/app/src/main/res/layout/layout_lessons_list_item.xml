@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view_lesson"
+    android:foreground="?android:attr/selectableItemBackgroundBorderless"
+    android:clickable="true"
+    android:focusable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardCornerRadius="4dp"
+    android:padding="20dp"
+    android:layout_margin="5dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/lesson_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/skill_number"
+            android:textColor="@color/Black"
+            android:textSize="18sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="16dp"
+            />
+
+        <TextView
+            android:id="@+id/lesson_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="48dp"
+            android:text="@string/skill_name"
+            android:textColor="@color/Black"
+            android:textSize="18sp"
+            android:layout_toRightOf="@+id/lesson_number"
+            android:layout_alignParentTop="true"
+            />
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

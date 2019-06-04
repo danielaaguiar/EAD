@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "303981528273",
+    "firebase_url": "https://gerenciador-de-lar.firebaseio.com",
+    "project_id": "gerenciador-de-lar",
+    "storage_bucket": "gerenciador-de-lar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303981528273:android:cf748705a6496fe3",
+        "android_client_info": {
+          "package_name": "com.eda.estoque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303981528273-bqnmtpps84biiuodprgj91j7afq3alpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtF0RW2LXsLkTmmNx0tpvRPyxpCaEwM3k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
